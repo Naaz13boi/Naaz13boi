@@ -5,6 +5,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Night at Luma AI](https://medium.com/@snkhalan/a-night-at-luma-ai-53321d63d0ae?source=rss-21b6523855a1------2)
+- [The Manim Experience](https://medium.com/@snkhalan/the-manim-experience-05387b5a1516?source=rss-21b6523855a1------2)
+- [Why your Power BI models suck.](https://medium.com/@snkhalan/why-your-power-bi-models-suck-75ca374bf41b?source=rss-21b6523855a1------2)
+- [SpaceTime DB: The Future of Storage, Compute, and Networking — Not Just for Games](https://medium.com/@snkhalan/spacetime-db-the-future-of-storage-compute-and-networking-not-just-for-games-dc60db276a44?source=rss-21b6523855a1------2)
+- [Why My Local LLMs Don’t Suck as Much Anymore](https://medium.com/@snkhalan/why-my-local-llms-dont-suck-as-much-anymore-4b28ad88698b?source=rss-21b6523855a1------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
