@@ -1,14 +1,16 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every Wednesday at 5 PM PST (Thursday 01:00 UTC)
+    - cron: '0 1 * * 4'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: 'https://medium.com/feed/@snkhalan'
