@@ -12,7 +12,7 @@
 - [Why My Local LLMs Don’t Suck as Much Anymore](https://medium.com/@snkhalan/why-my-local-llms-dont-suck-as-much-anymore-4b28ad88698b?source=rss-21b6523855a1------2)
 <!-- BLOG-POST-LIST:END -->
 
-###Connect with me
+### Connect with me
 
 Let's talk about AInything! ( see what i did there? )
 
